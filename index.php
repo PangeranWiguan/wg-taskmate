@@ -3,6 +3,5 @@
 
 include 'web-client/header.php';
 include 'web-client/body.php';
-include 'web-client/sidebar.php';
 include 'web-client/footer.php';
 ?>
